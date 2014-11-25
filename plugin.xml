@@ -9,7 +9,7 @@
   
   -->
 <plugin id="org.dita-community.ruby-d.html">
-  <require plugin="org.dita-community.common.html"/> 
+  <require plugin="org.dita-community.common.xslt"/> 
   <require plugin="org.dita-community.ruby-d.doctypes"/> 
   <feature extension="dita.xsl.xhtml" value="xsl/rubyDomain2html.xsl" type="file"/>  
 </plugin>
